@@ -2,9 +2,9 @@
 
 ## Website desenvolvido durante as aulas do curso JavaScript Completo ES6 - Origamid 🐺
 
-#### Tópicos abordados:
+### Tópicos abordados:
 
-### JavaScript para Iniciantes
+#### JavaScript para Iniciantes
 - Variáveis
 - Tipos de Dados
 - Números e Operadores
@@ -16,7 +16,7 @@
 - Atribuição e Ternário
 - Escopo
       
-### DOM para Iniciantes
+#### DOM para Iniciantes
 - O que é o DOM
 - Seleção de Elementos
 - forEach e Arrow Function
@@ -29,7 +29,7 @@
 - Smooth Scroll (links internos)
 - Animação ao Scroll
       
-### Objetos
+#### Objetos
 - Constructor Function
 - Prototype
 - Native, Host e User
@@ -47,7 +47,7 @@
 - Date Object
 - Forms
       
-### JavaScript Assíncrono
+#### JavaScript Assíncrono
 -JavaScript Assíncrono
 - Promises
 - Fetch
@@ -60,7 +60,7 @@
 - Get e Set
 - Extends
       
-### Mais JavaScript
+#### Mais JavaScript
 - Function Expression
 - Factory Function
 - Closures e Debugging
@@ -68,13 +68,13 @@
 - Rest e Spread
 - Loops e Iterable
 
-### Regular Expression
+#### Regular Expression
 - Regexp Seleção
 - Regexp Substituição
 - Regexp Padrões
 - Regexp Métodos
 
-### Automação Front End
+#### Automação Front End
 - Linha de Comando
 - NPM
 - ESLint
